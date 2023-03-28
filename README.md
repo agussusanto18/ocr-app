@@ -1,3 +1,3 @@
 # OCR App
 
-# Aplikasi Pengekstrak Teks dari sebuah gambar
+## Aplikasi Pengekstrak Teks dari sebuah gambar
